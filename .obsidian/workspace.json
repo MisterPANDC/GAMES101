@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "8611b89a1b9e6944",
+    "type": "split",
+    "children": [
+      {
+        "id": "1383ace69e0a0e59",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "4e3ffc0e66c72a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Shading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ffc597880d493b5f",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "6db3ebe9458bcf82",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1X7411F744?p=8"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac63bd76d3d2213",
+    "type": "split",
+    "children": [
+      {
+        "id": "f858b63c195aef78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e179eea1002627d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aea5713e2616af75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eb330f638f14663",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0091f7866b66094",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3781033b55aebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ab8037829ff298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/Pasted image 20240306131237.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0f561199f3422ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/Pasted image 20240306131237.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8167632e2a27be2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc9a9828a69b67ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/Pasted image 20240306131237.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "8e179eea1002627d",
+  "lastOpenFiles": [
+    "8. Shading2.md",
+    "Media Note - Lecture 04 Transformation Cont.md",
+    "source/Media Note - Lecture 05 Rasterization 1 (Triangles).md",
+    "未命名",
+    "7. Shading.md",
+    "11. Geometry 2.md",
+    "6. Rasterization 2.md",
+    "9. Shading3.md",
+    "10. Geometry.md",
+    "5. Rasterization 1.md",
+    "4. Transformation Cont.md",
+    "2.Linear Algebra.md",
+    "3. Transformation.md",
+    "source/Pasted image 20240306131237.png",
+    "Lecture 04 Transformation ContPT3M19.39S.png",
+    "Lecture 04 Transformation ContPT3M19.391S 1.webp",
+    "Lecture 04 Transformation ContPT3M19.391S.webp",
+    "Media Note - Lecture 02 Review of Linear Algebra.md",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-71.jpeg",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-70.jpeg",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-69.jpeg",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-68.jpeg",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-67.jpeg",
+    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-66.jpeg",
+    "source/GAMES101_Lecture_06",
+    "source/GAMES101_Lecture_05",
+    "source/GAMES101_Lecture_04",
+    "source/GAMES101_Lecture_03",
+    "source/GAMES101_Lecture_02",
+    "source/GAMES101_Lecture_03.pdf",
+    "source/GAMES101_Lecture_04.pdf",
+    "source/GAMES101_Lecture_05.pdf",
+    "source/GAMES101_Lecture_06.pdf",
+    "Welcome.md"
+  ]
+}
