@@ -6,38 +6,57 @@
       {
         "id": "1383ace69e0a0e59",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "4e3ffc0e66c72a75",
+            "id": "ad1598cc387ad816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Shading.md",
+                "file": "13. Ray Tracing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2db1598cb63716b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Ray Tracing 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49a640a5f109054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Shading2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "884d5b95543fdb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Ray Tracing 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ffc597880d493b5f",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "6db3ebe9458bcf82",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1X7411F744?p=8"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/Pasted image 20240306131237.png",
+                "file": "14. Ray Tracing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/Pasted image 20240306131237.png",
+                "file": "14. Ray Tracing 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/Pasted image 20240306131237.png"
+                "file": "14. Ray Tracing 2.md"
               }
             }
           }
@@ -165,41 +184,45 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8e179eea1002627d",
+  "active": "884d5b95543fdb71",
   "lastOpenFiles": [
+    "15. Ray Tracing 3.md",
+    "13. Ray Tracing.md",
+    "16. Ray Tracing 4.md",
     "8. Shading2.md",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-50.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-49.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-48.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-47.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-46.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-45.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-44.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-43.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-42.jpeg",
+    "source/GAMES101_Lecture_16/GAMES101_Lecture_16-41.jpeg",
+    "source/GAMES101_Lecture_16",
+    "9. Shading3.md",
+    "14. Ray Tracing 2.md",
+    "7. Shading.md",
+    "source/GAMES101_Lecture_15",
+    "source/GAMES101_Lecture_14",
+    "source/GAMES101_Lecture_13",
+    "source/GAMES101_Lecture_12",
     "Media Note - Lecture 04 Transformation Cont.md",
     "source/Media Note - Lecture 05 Rasterization 1 (Triangles).md",
     "未命名",
-    "7. Shading.md",
     "11. Geometry 2.md",
     "6. Rasterization 2.md",
-    "9. Shading3.md",
     "10. Geometry.md",
     "5. Rasterization 1.md",
     "4. Transformation Cont.md",
     "2.Linear Algebra.md",
     "3. Transformation.md",
-    "source/Pasted image 20240306131237.png",
-    "Lecture 04 Transformation ContPT3M19.39S.png",
-    "Lecture 04 Transformation ContPT3M19.391S 1.webp",
-    "Lecture 04 Transformation ContPT3M19.391S.webp",
     "Media Note - Lecture 02 Review of Linear Algebra.md",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-71.jpeg",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-70.jpeg",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-69.jpeg",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-68.jpeg",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-67.jpeg",
-    "source/GAMES101_Lecture_06/GAMES101_Lecture_06-66.jpeg",
     "source/GAMES101_Lecture_06",
     "source/GAMES101_Lecture_05",
     "source/GAMES101_Lecture_04",
     "source/GAMES101_Lecture_03",
-    "source/GAMES101_Lecture_02",
-    "source/GAMES101_Lecture_03.pdf",
-    "source/GAMES101_Lecture_04.pdf",
-    "source/GAMES101_Lecture_05.pdf",
-    "source/GAMES101_Lecture_06.pdf",
     "Welcome.md"
   ]
 }
